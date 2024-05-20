@@ -8,6 +8,6 @@
   "msg": "X电影：极致纯粹的观影工具",
   "url": "http://api.wer.plus/api/lanz?url=https://pan.lanzv.com/cbh",
   "testFlight": "https://testflight.apple.com/join/DkPMy9qx",
-  "readMe": "https://raw.gitmirror.com/yyds-movie/movie/main/README.md",
-  "apps": "https://raw.gitmirror.com/yyds-movie/movie/main/source/apps.json"
+  "md": "https://raw.githubusercontent.com/yyds-m/movie/main/README.md",
+  "apps": "https://raw.githubusercontent.com/yyds-m/movie/main/source/apps.json"
 }
