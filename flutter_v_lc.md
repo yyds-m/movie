@@ -35,9 +35,9 @@ X电影专为电影爱好者用户而设计。
 
 提供了一个示例网络源：
 
-[点击导入json源](http://lc-dPxercTs.cn-n1.lcfile.com/EMhR7Ua7GmFD8Sd0tGVcnGG6TKEpDedu/json.json)
+[点击导入json源](http://lc-dPxercTs.cn-n1.lcfile.com/EMhR7Ua7GmFD8Sd0tGVcnGG6TKEpDedu/flutter_v_json.json)
 
-[点击导入web源](http://lc-dPxercTs.cn-n1.lcfile.com/00ahu2N2Of2ToqpskF3kByKUth90I3pp/web.json)
+[点击导入web源](http://lc-dPxercTs.cn-n1.lcfile.com/00ahu2N2Of2ToqpskF3kByKUth90I3pp/flutter_v_web.json)
 
 在 **源管理——右上角——导入源** 中导入即可（请提前科学上网），相关教程编写中
 
