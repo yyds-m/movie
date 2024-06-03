@@ -1,6 +1,15 @@
 [
   {
     "url": "",
+    "name": "X视频",
+    "description": "免费 VIP 追剧",
+    "iconUrl": "https://raw.githubusercontent.com/yyds-book/book/main/image/icon.jpg",
+    "packageName": "",
+    "bundleId": "",
+    "urlScheme": ""
+  },
+  {
+    "url": "",
     "name": "腾讯视频",
     "description": "庆余年热播",
     "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_3040_1579418166/256",
