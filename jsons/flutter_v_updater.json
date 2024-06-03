@@ -9,5 +9,5 @@
   "url": "http://api.wer.plus/api/lanz?url=https://pan.lanzv.com/cbh",
   "testFlight": "https://testflight.apple.com/join/DkPMy9qx",
   "md": "https://raw.githubusercontent.com/yyds-m/movie/main/README.md",
-  "apps": "https://raw.githubusercontent.com/yyds-m/movie/main/jsons/apps.json"
+  "apps": "https://raw.githubusercontent.com/yyds-m/movie/main/jsons/flutter_v_apps.json"
 }
