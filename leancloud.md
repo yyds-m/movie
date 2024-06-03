@@ -35,9 +35,9 @@ X电影专为电影爱好者用户而设计。
 
 提供了一个示例网络源：
 
-[点击导入json源](https://cnto3la5g6hfi0gtjjj0.baseapi.memfiredb.com/storage/v1/object/sign/yyds/movie/json.json?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ5eWRzL21vdmllL2pzb24uanNvbiIsImlhdCI6MTcxNzM5NjM3OCwiZXhwIjoxNzQ4OTMyMzc4fQ.g5Tc5N2fNBNfcHbQYF8IZSM_mDT5lu1W9zukHPW8cp8&t=2024-06-03T06%3A32%3A58.350Z)
+[点击导入json源](http://lc-dPxercTs.cn-n1.lcfile.com/EMhR7Ua7GmFD8Sd0tGVcnGG6TKEpDedu/json.json)
 
-[点击导入web源](https://cnto3la5g6hfi0gtjjj0.baseapi.memfiredb.com/storage/v1/object/sign/yyds/movie/web.json?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ5eWRzL21vdmllL3dlYi5qc29uIiwiaWF0IjoxNzE3Mzk2Mzg5LCJleHAiOjE3NDg5MzIzODl9.ll_uUnLji8jmKGNqZCymOCBO5b4DWcp-ujEp9QyC64A&t=2024-06-03T06%3A33%3A09.777Z)
+[点击导入web源](http://lc-dPxercTs.cn-n1.lcfile.com/00ahu2N2Of2ToqpskF3kByKUth90I3pp/web.json)
 
 在 **源管理——右上角——导入源** 中导入即可（请提前科学上网），相关教程编写中
 
