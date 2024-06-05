@@ -10,7 +10,7 @@
     "charset": "utf8",
     "search_url": "https://www.duse1.com/search?k={{wd}}",
     "search_method": "get",
-    "search_list": "//div[@class=\'search-result-list fs-margin-section\']/a[@class=\'search-result-item\']",
+    "search_list": "//div[@class=\"search-result-list fs-margin-section\"]/a[@class=\"search-result-item\"]",
     "search_name": "",
     "search_cover": "",
     "search_director": "",
