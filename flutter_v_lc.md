@@ -37,7 +37,7 @@ X电影专为电影爱好者用户而设计。
 
 [点击导入json源](http://lc-dPxercTs.cn-n1.lcfile.com/HuGBuCA0p8hUu4A8SjqANzmn2P2FOOhJ/flutter_v_json.json)
 
-[点击导入web源](http://lc-dPxercTs.cn-n1.lcfile.com/GyeTK96iimJXT6fY4zns7TnLY6KBAGYJ/flutter_v_web.json)
+[点击导入web源](http://lc-dPxercTs.cn-n1.lcfile.com/yXv3H4j8axuuOEkGGFCzvYUCiCz3PLe8/flutter_v_web.json)
 
 在 **源管理——右上角——导入源** 中导入即可（请提前科学上网），相关教程编写中
 
