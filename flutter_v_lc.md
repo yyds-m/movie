@@ -20,9 +20,9 @@ X电影专为电影爱好者用户而设计。
 
 > 保存永久下载地址不迷路
 
-[点击进入官方下载]()
+[点击进入V下载](https://lz.qaiu.top/parser?url=https://pan.lanzoub.com/flutter-v)
 
-[点击进入官方备用下载]()
+[点击进入X下载](https://pan.lanzoub.com/flutter-v)
 
 
 ##  TestFlight
