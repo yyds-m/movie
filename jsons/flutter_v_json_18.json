@@ -4,7 +4,51 @@
     "url": "https://slapibf.com/api.php/provide/vod/"
   },
    {
-    "name": "森林资源",
-    "url": "https://slapibf.com/api.php/provide/vod/"
+    "name": "探探资源",
+    "url": "https://apittzy.com/api.php/provide/vod/"
   },
+   {
+    "name": "老鸭资源",
+    "url": "https://api.apilyzy.com/api.php/provide/vod/"
+  },
+  {
+    "name": "色南国",
+    "url": "https://api.sexnguon.com/api.php/provide/vod/"
+  },
+  {
+    "name": "大地",
+    "url": "https://dadiapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "KK写真",
+    "url": "https://kkzy.me/api.php/provide/vod/"
+  },
+  {
+    "name": "91md",
+    "url": "https://91md.me/api.php/provide/vod/from/mdm3u8/"
+  },
+  {
+    "name": "AIvin",
+    "url": "http://lbapiby.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "色猫资源",
+    "url": "https://api.maozyapi.com/inc/apijson_vod.php"
+  },
+  {
+    "name": "91麻豆",
+    "url": "https://91md.me/api.php/provide/vod/"
+  },
+  {
+    "name": "美少女资源",
+    "url": "https://www.msnii.com/api/json.php"
+  },
+  {
+    "name": "淫水机资源",
+    "url": "https://www.xrbsp.com/api/json.php"
+  },
+  {
+    "name": "香奶儿资源",
+    "url": "https://www.gdlsp.com/api/json.php"
+  }
 ]
