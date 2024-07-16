@@ -1,4 +1,8 @@
-[ {
+[{
+    "name": "华为8",
+    "url": "https://hw8.live/api.php/provide/vod/"
+  },
+    {
     "name": "黑木耳",
     "url": "https://json.heimuer.xyz/api.php/provide/vod/"
   },
