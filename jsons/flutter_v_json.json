@@ -21,7 +21,7 @@
   },
   {
     "name": "虎牙",
-    "url": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+    "url": "https://www.huyaapi.com/api.php/provide/vod",
     "type": 1
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "name": "妖灵",
-    "url": "https://api.1080zyku.com/inc/apijson.php",
+    "url": "https://api.1080zyku.com/inc/apijson.php/vod",
     "type": 1
   },
   {
