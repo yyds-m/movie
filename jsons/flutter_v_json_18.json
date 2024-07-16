@@ -76,7 +76,11 @@
     "url": "https://www.afasu.com/api/json.php/vod/"
   },
   {
-    "name": "小湿妹资源",
-    "url": "https://www.afasu.com/api/json.php/vod/"
+    "name": "黄瓜资源",
+    "url": "https://www.zy018.com/api.php/provide/vod"
+  },
+  {
+    "name": "115资源",
+    "url": "https://155api.com/api.php/provide/vod/?ac=list"
   }
 ]
