@@ -1,4 +1,7 @@
-[
+[ {
+    "name": "黑木耳",
+    "url": "https://json.heimuer.xyz/api.php/provide/vod/"
+  },
   {
     "name": "海外吧",
     "url": "https://huawei8.live/api.php/provide/vod/"
@@ -50,10 +53,6 @@
   {
     "name": "映迷",
     "url": "https://www.inmi.app/api.php/provide/vod"
-  },
-  {
-    "name": "海外看",
-    "url": "https://haiwaikan.com/api.php/provide/vod/"
   },
   {
     "name": "索尼资源(切)",
