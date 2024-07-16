@@ -4,7 +4,6 @@
     "url": "https://www.duse1.com",
     "enabled": true,
     "explore_enabled": false,
-    "type": 2,
     "header": "",
     "charset": "utf8",
     "search_url": "https://www.duse1.com/search?k={{wd}}",
