@@ -282,5 +282,21 @@
   {
     "name": "旋风云",
     "url": "http://appimg.ssxmall.cn/api.php/provide/vod/"
+  },
+  {
+    "name": "影图",
+    "url": "https://cj.vodimg.top/api.php/provide/vod/"
+  },
+  {
+    "name": "影图",
+    "url": "https://cj.vodimg.top/api.php/provide/vod/"
+  },
+  {
+    "name": "盘看看",
+    "url": "http://tvcaiji.pankk.cn/api.php/provide/vod/"
+  },
+  {
+    "name": "神马云",
+    "url": "https://api.1080zyku.com/inc/apijson.php/vod/"
   }
 ]
