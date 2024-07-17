@@ -2,247 +2,237 @@
   {
     "name": "火狐资源",
     "url": "https://hhzyapi.com/api.php/provide/vod/",
-    "receiveTimeout": 278
-  },
-  {
-    "name": "非凡",
-    "url": "http://cj.ffzyapi.com/api.php/provide/vod",
-    "receiveTimeout": 411
-  },
-  {
-    "name": "豪华",
-    "url": "https://hhzyapi.com/api.php/provide/vod/",
-    "receiveTimeout": 433
+    "receiveTimeout": 251
   },
   {
     "name": "极速资源",
     "url": "https://jszyapi.com/api.php/provide/vod/",
-    "receiveTimeout": 479
-  },
-  {
-    "name": "虎牙",
-    "url": "https://www.huyaapi.com/api.php/provide/vod",
-    "receiveTimeout": 557
+    "receiveTimeout": 317
   },
   {
     "name": "阿里影视",
     "url": "http://aliys.cn:90/api.php/provide/vod/",
-    "receiveTimeout": 559
+    "receiveTimeout": 440
   },
   {
-    "name": "神马云",
-    "url": "https://api.1080zyku.com/inc/apijson.php/vod/",
-    "receiveTimeout": 632
+    "name": "豪华",
+    "url": "https://hhzyapi.com/api.php/provide/vod/",
+    "receiveTimeout": 456
   },
   {
-    "name": "妖灵",
-    "url": "https://api.1080zyku.com/inc/apijson.php/vod",
-    "receiveTimeout": 666
-  },
-  {
-    "name": "虎牙资源",
-    "url": "https://www.huyaapi.com/api.php/provide/vod/",
-    "receiveTimeout": 677
+    "name": "非凡",
+    "url": "http://cj.ffzyapi.com/api.php/provide/vod",
+    "receiveTimeout": 570
   },
   {
     "name": "非凡资源",
     "url": "https://cj.ffzyapi.com/api.php/provide/vod/",
-    "receiveTimeout": 689
-  },
-  {
-    "name": "映迷",
-    "url": "https://www.inmi.app/api.php/provide/vod/",
-    "receiveTimeout": 722
-  },
-  {
-    "name": "天翼资源",
-    "url": "https://www.911ysw.top/tianyi.php/provide/vod/",
-    "receiveTimeout": 729
+    "receiveTimeout": 626
   },
   {
     "name": "天空资源",
     "url": "https://api.tiankongapi.com/api.php/provide/vod/",
-    "receiveTimeout": 732
-  },
-  {
-    "name": "39资源",
-    "url": "https://www.39kan.com/api.php/provide/vod/",
-    "receiveTimeout": 751
+    "receiveTimeout": 627
   },
   {
     "name": "天空",
     "url": "https://api.tiankongapi.com/api.php/provide/vod",
-    "receiveTimeout": 769
-  },
-  {
-    "name": "金鹰资源",
-    "url": "https://jyzyapi.com/api.php/provide/vod/",
-    "receiveTimeout": 802
-  },
-  {
-    "name": "海外吧",
-    "url": "https://huawei8.live/api.php/provide/vod/",
-    "receiveTimeout": 827
-  },
-  {
-    "name": "飞速",
-    "url": "https://www.feisuzyapi.com/api.php/provide/vod",
-    "receiveTimeout": 846
-  },
-  {
-    "name": "金鹰",
-    "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
-    "receiveTimeout": 876
+    "receiveTimeout": 628
   },
   {
     "name": "小猫咪",
     "url": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
-    "receiveTimeout": 906
+    "receiveTimeout": 642
   },
   {
     "name": "速播资源",
     "url": "https://subocaiji.com/api.php/provide/vod/",
-    "receiveTimeout": 967
+    "receiveTimeout": 666
   },
   {
-    "name": "量子资源",
-    "url": "https://cj.lziapi.com/api.php/provide/vod/",
-    "receiveTimeout": 979
+    "name": "妖灵",
+    "url": "https://api.1080zyku.com/inc/apijson.php/vod",
+    "receiveTimeout": 676
   },
   {
-    "name": "无尽资源",
-    "url": "https://api.wujinapi.com/api.php/provide/vod/",
-    "receiveTimeout": 1016
+    "name": "天翼资源",
+    "url": "https://www.911ysw.top/tianyi.php/provide/vod/",
+    "receiveTimeout": 750
   },
   {
-    "name": "飞速资源",
-    "url": "https://www.feisuzyapi.com/api.php/provide/vod/",
-    "receiveTimeout": 1073
+    "name": "39资源",
+    "url": "https://www.39kan.com/api.php/provide/vod/",
+    "receiveTimeout": 781
   },
   {
-    "name": "樱花资源",
-    "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-    "receiveTimeout": 1079
+    "name": "虎牙",
+    "url": "https://www.huyaapi.com/api.php/provide/vod",
+    "receiveTimeout": 830
   },
   {
     "name": "卧龙资源",
     "url": "https://collect.wolongzy.cc/api.php/provide/vod/",
-    "receiveTimeout": 1097
+    "receiveTimeout": 834
   },
   {
-    "name": "360资源",
-    "url": "https://360zy.com/api.php/provide/vod/",
-    "receiveTimeout": 1110
+    "name": "樱花资源",
+    "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+    "receiveTimeout": 839
   },
   {
-    "name": "最大资源",
-    "url": "https://api.zuidapi.com/api.php/provide/vod/",
-    "receiveTimeout": 1121
+    "name": "神马云",
+    "url": "https://api.1080zyku.com/inc/apijson.php/vod/",
+    "receiveTimeout": 845
   },
   {
-    "name": "ck资源",
-    "url": "https://ckzy.me/api.php/provide/vod/",
-    "receiveTimeout": 1124
+    "name": "映迷",
+    "url": "https://www.inmi.app/api.php/provide/vod/",
+    "receiveTimeout": 879
   },
   {
-    "name": "U酷资源",
-    "url": "https://api.ukuapi.com/api.php/provide/vod/",
-    "receiveTimeout": 1149
+    "name": "飞速",
+    "url": "https://www.feisuzyapi.com/api.php/provide/vod",
+    "receiveTimeout": 895
   },
   {
-    "name": "飞速m3u8",
-    "url": "https://m3u8.feisuzyapi.com/api.php/provide/vod/",
-    "receiveTimeout": 1189
+    "name": "虎牙资源",
+    "url": "https://www.huyaapi.com/api.php/provide/vod/",
+    "receiveTimeout": 910
   },
   {
-    "name": "百度云资源",
-    "url": "https://api.apibdzy.com/api.php/provide/vod/",
-    "receiveTimeout": 1190
+    "name": "无尽资源",
+    "url": "https://api.wujinapi.com/api.php/provide/vod/",
+    "receiveTimeout": 953
   },
   {
-    "name": "影图",
-    "url": "https://cj.vodimg.top/api.php/provide/vod/",
-    "receiveTimeout": 1205
-  },
-  {
-    "name": "最大",
-    "url": "https://api.zuidapi.com/api.php/provide/vod",
-    "receiveTimeout": 1237
-  },
-  {
-    "name": "丫丫资源",
-    "url": "https://cj.yayazy.net/api.php/provide/vod/",
-    "receiveTimeout": 1298
-  },
-  {
-    "name": "量子",
-    "url": "https://cj.lziapi.com/api.php/provide/vod",
-    "receiveTimeout": 1304
-  },
-  {
-    "name": "牛牛资源",
-    "url": "https://api.niuniuzy.me/api.php/provide/vod/",
-    "receiveTimeout": 1329
-  },
-  {
-    "name": "百度资源",
-    "url": "https://api.apibdzy.com/api.php/provide/vod/",
-    "receiveTimeout": 1329
+    "name": "飞速资源",
+    "url": "https://www.feisuzyapi.com/api.php/provide/vod/",
+    "receiveTimeout": 961
   },
   {
     "name": "闪电资源",
     "url": "https://sdzyapi.com/api.php/provide/vod/",
-    "receiveTimeout": 1349
+    "receiveTimeout": 995
   },
   {
-    "name": "飞速 1",
-    "url": "https://fszy1.com/api.php/provide/vod/",
-    "receiveTimeout": 1465
+    "name": "百度云资源",
+    "url": "https://api.apibdzy.com/api.php/provide/vod/",
+    "receiveTimeout": 998
   },
   {
-    "name": "ikun资源",
-    "url": "https://ikunzyapi.com/api.php/provide/vod/",
-    "receiveTimeout": 1489
+    "name": "影图",
+    "url": "https://cj.vodimg.top/api.php/provide/vod/",
+    "receiveTimeout": 1012
   },
   {
-    "name": "黑木耳",
-    "url": "https://json.heimuer.xyz/api.php/provide/vod/",
-    "receiveTimeout": 1505
+    "name": "ck资源",
+    "url": "https://ckzy.me/api.php/provide/vod/",
+    "receiveTimeout": 1046
+  },
+  {
+    "name": "U酷资源",
+    "url": "https://api.ukuapi.com/api.php/provide/vod/",
+    "receiveTimeout": 1081
+  },
+  {
+    "name": "百度资源",
+    "url": "https://api.apibdzy.com/api.php/provide/vod/",
+    "receiveTimeout": 1094
   },
   {
     "name": "OK资源",
     "url": "https://api.okzy.org/api.php/provide/vod/",
-    "receiveTimeout": 1621
+    "receiveTimeout": 1243
   },
   {
-    "name": "暴风资源",
-    "url": "https://bfzyapi.com/api.php/provide/vod/",
-    "receiveTimeout": 1626
+    "name": "飞速m3u8",
+    "url": "https://m3u8.feisuzyapi.com/api.php/provide/vod/",
+    "receiveTimeout": 1264
   },
   {
-    "name": "飘零资源",
-    "url": "https://p2100.net/api.php/provide/vod/",
-    "receiveTimeout": 1679
+    "name": "ikun资源",
+    "url": "https://ikunzyapi.com/api.php/provide/vod/",
+    "receiveTimeout": 1322
   },
   {
-    "name": "华为8",
-    "url": "https://hw8.live/api.php/provide/vod/",
-    "receiveTimeout": 1740
-  },
-  {
-    "name": "快看资源",
-    "url": "https://kuaikan-api.com/api.php/provide/vod/",
-    "receiveTimeout": 1893
-  },
-  {
-    "name": "四圈资源",
-    "url": "https://pg.fenwe078.cf/api.php/provide/vod/",
-    "receiveTimeout": 2448
+    "name": "黑木耳",
+    "url": "https://json.heimuer.xyz/api.php/provide/vod/",
+    "receiveTimeout": 1331
   },
   {
     "name": "黑雨资源",
     "url": "https://json.heimuer.xyz/api.php/provide/vod/",
-    "receiveTimeout": 4770
+    "receiveTimeout": 1347
+  },
+  {
+    "name": "丫丫资源",
+    "url": "https://cj.yayazy.net/api.php/provide/vod/",
+    "receiveTimeout": 1362
+  },
+  {
+    "name": "量子",
+    "url": "https://cj.lziapi.com/api.php/provide/vod",
+    "receiveTimeout": 1414
+  },
+  {
+    "name": "华为8",
+    "url": "https://hw8.live/api.php/provide/vod/",
+    "receiveTimeout": 1442
+  },
+  {
+    "name": "飘零资源",
+    "url": "https://p2100.net/api.php/provide/vod/",
+    "receiveTimeout": 1528
+  },
+  {
+    "name": "海外吧",
+    "url": "https://huawei8.live/api.php/provide/vod/",
+    "receiveTimeout": 1548
+  },
+  {
+    "name": "飞速 1",
+    "url": "https://fszy1.com/api.php/provide/vod/",
+    "receiveTimeout": 1578
+  },
+  {
+    "name": "金鹰资源",
+    "url": "https://jyzyapi.com/api.php/provide/vod/",
+    "receiveTimeout": 1651
+  },
+  {
+    "name": "快看资源",
+    "url": "https://kuaikan-api.com/api.php/provide/vod/",
+    "receiveTimeout": 1732
+  },
+  {
+    "name": "360资源",
+    "url": "https://360zy.com/api.php/provide/vod/",
+    "receiveTimeout": 1767
+  },
+  {
+    "name": "暴风资源",
+    "url": "https://bfzyapi.com/api.php/provide/vod/",
+    "receiveTimeout": 1795
+  },
+  {
+    "name": "金鹰",
+    "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
+    "receiveTimeout": 1814
+  },
+  {
+    "name": "四圈资源",
+    "url": "https://pg.fenwe078.cf/api.php/provide/vod/",
+    "receiveTimeout": 2315
+  },
+  {
+    "name": "艾旦影视",
+    "url": "https://lovedan.net/api.php/provide/vod/",
+    "receiveTimeout": 2735
+  },
+  {
+    "name": "量子资源",
+    "url": "https://cj.lziapi.com/api.php/provide/vod/",
+    "receiveTimeout": 3382
   },
   {
     "name": "789资源",
@@ -290,13 +280,18 @@
     "receiveTimeout": -1
   },
   {
-    "name": "旋风云",
-    "url": "http://appimg.ssxmall.cn/api.php/provide/vod/",
+    "name": "牛牛资源",
+    "url": "https://api.niuniuzy.me/api.php/provide/vod/",
     "receiveTimeout": -1
   },
   {
-    "name": "海外看",
-    "url": "https://haiwaikan.com/api.php/provide/vod/",
+    "name": "最大资源",
+    "url": "https://api.zuidapi.com/api.php/provide/vod/",
+    "receiveTimeout": -1
+  },
+  {
+    "name": "旋风云",
+    "url": "http://appimg.ssxmall.cn/api.php/provide/vod/",
     "receiveTimeout": -1
   },
   {
@@ -330,11 +325,6 @@
     "receiveTimeout": -1
   },
   {
-    "name": "艾旦影视",
-    "url": "https://lovedan.net/api.php/provide/vod/",
-    "receiveTimeout": -1
-  },
-  {
     "name": "鱼乐资源",
     "url": "https://api.ylzy.me/api.php/provide/vod/",
     "receiveTimeout": -1
@@ -342,11 +332,6 @@
   {
     "name": "快车资源",
     "url": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/",
-    "receiveTimeout": -1
-  },
-  {
-    "name": "91毒舌",
-    "url": "https://www.duse1.com",
     "receiveTimeout": -1
   },
   {
