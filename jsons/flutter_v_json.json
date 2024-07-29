@@ -40,7 +40,7 @@
     "receiveTimeout": 628
   },
   {
-    "name": "小猫咪",
+    "name": "猫咪",
     "url": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
     "receiveTimeout": 642
   },
@@ -80,7 +80,7 @@
     "receiveTimeout": 839
   },
   {
-    "name": "神马云",
+    "name": "神马",
     "url": "https://api.1080zyku.com/inc/apijson.php/vod/",
     "receiveTimeout": 845
   },
@@ -115,7 +115,7 @@
     "receiveTimeout": 995
   },
   {
-    "name": "百度云",
+    "name": "百度",
     "url": "https://api.apibdzy.com/api.php/provide/vod/",
     "receiveTimeout": 998
   },
@@ -145,17 +145,17 @@
     "receiveTimeout": 1243
   },
   {
-    "name": "飞速m3u8",
+    "name": "飞速",
     "url": "https://m3u8.feisuzyapi.com/api.php/provide/vod/",
     "receiveTimeout": 1264
   },
   {
-    "name": "ikun",
+    "name": "爱坤",
     "url": "https://ikunzyapi.com/api.php/provide/vod/",
     "receiveTimeout": 1322
   },
   {
-    "name": "黑木耳",
+    "name": "木耳",
     "url": "https://json.heimuer.xyz/api.php/provide/vod/",
     "receiveTimeout": 1331
   },
@@ -175,7 +175,7 @@
     "receiveTimeout": 1414
   },
   {
-    "name": "华为8",
+    "name": "华为",
     "url": "https://hw8.live/api.php/provide/vod/",
     "receiveTimeout": 1442
   },
@@ -185,12 +185,12 @@
     "receiveTimeout": 1528
   },
   {
-    "name": "海外吧",
+    "name": "海外",
     "url": "https://huawei8.live/api.php/provide/vod/",
     "receiveTimeout": 1548
   },
   {
-    "name": "飞速 1",
+    "name": "飞速1",
     "url": "https://fszy1.com/api.php/provide/vod/",
     "receiveTimeout": 1578
   },
@@ -260,7 +260,7 @@
     "receiveTimeout": -1
   },
   {
-    "name": "索尼(切)",
+    "name": "索尼",
     "url": "https://suoniapi.com/api.php/provide/vod/",
     "receiveTimeout": -1
   },
@@ -270,7 +270,7 @@
     "receiveTimeout": -1
   },
   {
-    "name": "feifei",
+    "name": "飞飞",
     "url": "http://www.feifei67.com/api.php/provide/vod/",
     "receiveTimeout": -1
   },
@@ -290,7 +290,7 @@
     "receiveTimeout": -1
   },
   {
-    "name": "旋风云",
+    "name": "旋风",
     "url": "http://appimg.ssxmall.cn/api.php/provide/vod/",
     "receiveTimeout": -1
   },
@@ -320,7 +320,7 @@
     "receiveTimeout": -1
   },
   {
-    "name": "唐人街",
+    "name": "唐人",
     "url": "https://www.tangrenjie.tv/api.php/provide/vod/",
     "receiveTimeout": -1
   },
