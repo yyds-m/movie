@@ -24,10 +24,7 @@ X电影专为电影爱好者用户而设计。
 [点击进入 TestFlight 内测](https://testflight.apple.com/join/hDMYDZ0P)
 
 ## 👩‍💻 源导入 
-
-提供了一个示例网络源：
-
-目前仅支持GitHub仓库中文件原始地址
+目前仅支持GitHub仓库中文件原始地址：
 
 JSON数据格式示例
 [
@@ -40,7 +37,8 @@ JSON数据格式示例
     "url": ""
   }
   ]
-
+  
+提供了一个示例网络源：
 [点击导入json源](https://raw.githubusercontent.com/yyds-m/movie/main/jsons/flutter_v_json.json)
 
 [点击导入web源](https://raw.githubusercontent.com/yyds-m/movie/main/jsons/flutter_v_web.json)
