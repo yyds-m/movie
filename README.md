@@ -24,7 +24,7 @@ X电影专为电影爱好者用户而设计。
 [点击进入 TestFlight 内测](https://testflight.apple.com/join/hDMYDZ0P)
 
 ## 👩‍💻 源导入 
-目前仅支持GitHub仓库中文件原始地址：
+目前仅支持GitHub仓库中文件原始地址
 
 JSON数据格式示例
 [
