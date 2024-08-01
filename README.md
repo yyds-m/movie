@@ -31,7 +31,7 @@ X电影专为电影爱好者用户而设计。
 
 [点击导入web源](https://raw.githubusercontent.com/yyds-m/movie/main/jsons/flutter_v_web.json)
 
-数据格式
+JSON数据格式
 [
   {
     "name": "",
