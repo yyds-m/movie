@@ -26,11 +26,6 @@ X电影专为电影爱好者用户而设计。
 ## 👩‍💻 源导入
 
 提供了一个示例网络源：
-
-[点击导入json源](https://raw.githubusercontent.com/yyds-m/movie/main/jsons/flutter_v_json.json)
-
-[点击导入web源](https://raw.githubusercontent.com/yyds-m/movie/main/jsons/flutter_v_web.json)
-
 JSON数据格式
 [
   {
@@ -42,6 +37,12 @@ JSON数据格式
     "url": ""
   }
   ]
+
+[点击导入json源](https://raw.githubusercontent.com/yyds-m/movie/main/jsons/flutter_v_json.json)
+
+[点击导入web源](https://raw.githubusercontent.com/yyds-m/movie/main/jsons/flutter_v_web.json)
+
+
 
 在 **源管理——右上角——导入源** 中导入即可（请提前科学上网），相关教程编写中
 
