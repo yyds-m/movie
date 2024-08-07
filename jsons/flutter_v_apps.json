@@ -1,8 +1,17 @@
 [
   {
     "url": "https://testflight.apple.com/join/DkPMy9qx",
-    "name": "X电影",
-    "description": "免费 VIP 追剧，极致纯粹的观影工具",
+    "name": "万源阅读(苹果)",
+    "description": "万千书源 想读就读",
+    "iconUrl": "https://raw.githubusercontent.com/yyds-book/book/main/image/icon.jpg",
+    "packageName": "",
+    "bundleId": "",
+    "urlScheme": ""
+  },
+    {
+    "url": "https://pan.lanzoub.com/flutter-reader",
+    "name": "万源阅读(安卓)",
+    "description": "万源阅读专为阅读爱好者用户而设计。",
     "iconUrl": "https://raw.githubusercontent.com/yyds-book/book/main/image/icon.jpg",
     "packageName": "",
     "bundleId": "",
