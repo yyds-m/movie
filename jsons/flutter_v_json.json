@@ -210,16 +210,6 @@
     "receiveTimeout": 1767
   },
   {
-    "name": "暴风",
-    "url": "https://bfzyapi.com/api.php/provide/vod/",
-    "receiveTimeout": 1795
-  },
-  {
-    "name": "金鹰",
-    "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
-    "receiveTimeout": 1814
-  },
-  {
     "name": "四圈",
     "url": "https://pg.fenwe078.cf/api.php/provide/vod/",
     "receiveTimeout": 2315
@@ -356,8 +346,8 @@
   },
   {
     "name": "暴风",
-    "url": "http://app.bfzyapi.com/api.php/provide/vod",
-    "receiveTimeout": -1
+    "url": "https://bfzyapi.com/api.php/provide/vod/",
+    "receiveTimeout": 1795
   },
   {
     "name": "奥斯",
