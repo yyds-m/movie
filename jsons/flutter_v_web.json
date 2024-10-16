@@ -1,5 +1,5 @@
 [
-   {
+  {
     "name": "91毒舌",
     "url": "https://www.duse1.com",
     "enabled": true,
@@ -13,13 +13,13 @@
     "search_cover": "//div[2]/div[1]/div/img/@src",
     "search_director": "",
     "search_actor": "/div[2]/div[2]/div[3]/span/@text",
-    "search_category":"/div[2]/div[2]/div[2]/span[3]/@text",
+    "search_category": "/div[2]/div[2]/div[2]/span[3]/@text",
     "search_area": "/div[2]/div[2]/div[2]/span[2]/@text",
     "search_year": "/div[2]/div[2]/div[2]/span[1]/@text",
     "search_info": "/div[2]/div[2]/div[4]//@text|dart.trim()",
     "search_score": "",
     "search_remarks": "",
-    "search_latest_time": "",     
+    "search_latest_time": "",
     "search_pubdate": "",
     "info_url": "//@href",
     "info_method": "get",
@@ -46,17 +46,58 @@
     "player_aaaa": "",
     "explore_json": ""
   },
-  {"name": "耐克", "url": "https://www.ajeee.com"},
-  {"name": "亿好", "url": "https://www.9ehao.net"},
-  {"name": "加加", "url": "https://www.jiajia33.com"},
-  {"name": "金曼", "url": "https://jinmantv.com"},
-  {"name": "八零", "url": "https://www.1080kdy.com"},
-  {"name": "全民", "url": "http://www.nxc5.com"},
-  {"name": "沃克", "url": "https://www.okdyw.com"},
-  {"name": "片库", "url": "http://www.piankumi.cc"},
-  {"name": "人人", "url": "https://www.rrvipw.com"},
-  {"name": "死灵", "url": "https://40tl.com"},
-  {"name": "乐可", "url": "https://www.wwtch.com"},
-  {"name": "电影1", "url": "https://dianyi.ng", "text": ""},
-  {"name": "电影3", "url": "电影先生.com", "text": ""}
+  {
+    "name": "耐克",
+    "url": "https://www.ajeee.com",
+  },
+  {
+    "name": "亿好",
+    "url": "https://www.9ehao.net",
+  },
+  {
+    "name": "加加",
+    "url": "https://www.jiajia33.com",
+  },
+  {
+    "name": "金曼",
+    "url": "https://jinmantv.com",
+  },
+  {
+    "name": "八零",
+    "url": "https://www.1080kdy.com",
+  },
+  {
+    "name": "全民",
+    "url": "http://www.nxc5.com",
+  },
+  {
+    "name": "沃克",
+    "url": "https://www.okdyw.com",
+  },
+  {
+    "name": "片库",
+    "url": "http://www.piankumi.cc",
+  },
+  {
+    "name": "人人",
+    "url": "https://www.rrvipw.com",
+  },
+  {
+    "name": "死灵",
+    "url": "https://40tl.com",
+  },
+  {
+    "name": "乐可",
+    "url": "https://www.wwtch.com",
+  },
+  {
+    "name": "电影1",
+    "url": "https://dianyi.ng",
+    "text": "",
+  },
+  {
+    "name": "电影3",
+    "url": "电影先生.com",
+    "text": "",
+  }
 ]
