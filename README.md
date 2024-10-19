@@ -29,12 +29,9 @@ JSON数据格式示例
   }
   ]
   
-提供了一个示例网络源：
-
-[点击导入json源](https://raw.githubusercontent.com/yyds-m/movie/main/jsons/flutter_v_json.json)
-
-[点击导入web源](https://raw.githubusercontent.com/yyds-m/movie/main/jsons/flutter_v_web.json)
-
+## 提供了一个示例网络源：
+我的-电影订阅-下载图标-点击同步
+我的-电视订阅-下载图标-点击同步
 
 
 在 **源管理——右上角——导入源** 中导入即可（请提前科学上网），相关教程编写中
