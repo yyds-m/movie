@@ -154,6 +154,16 @@
     "url": "https://cj.vodimg.top/api.php/provide/vod/",
     "receiveTimeout": 1035
   },
+ {
+    "name": "牛牛",
+    "url": "https://api.niuniuzy.me/api.php/provide/vod/",
+    "receiveTimeout": 1035
+  },
+ {
+    "name": "鸭鸭",
+    "url": "https://cj.yayazy.net/api.php/provide/vod/",
+    "receiveTimeout": 1035
+  },
   {
     "name": "无尽",
     "url": "https://api.wujinapi.com/api.php/provide/vod/",
