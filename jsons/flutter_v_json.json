@@ -251,22 +251,7 @@
   },
   {
     "name": "飞速",
-    "url": "https://www.feisuzyapi.com/api.php/provide/vod",
-    "receiveTimeout": -1
-  },
-  {
-    "name": "飞速",
     "url": "https://www.feisuzyapi.com/api.php/provide/vod/",
-    "receiveTimeout": -1
-  },
-  {
-    "name": "飞速",
-    "url": "https://m3u8.feisuzyapi.com/api.php/provide/vod/",
-    "receiveTimeout": -1
-  },
-  {
-    "name": "飞速1",
-    "url": "https://fszy1.com/api.php/provide/vod/",
     "receiveTimeout": -1
   },
   {
