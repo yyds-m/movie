@@ -1,6 +1,5 @@
 [
           {"name": "豪华", "url": "https://hhzyapi.com/api.php/provide/vod/", "receiveTimeout": 232},
-          {"name": "黑木", "url": "https://json02.heimuer.xyz/api.php/provide/vod/", "receiveTimeout": 310},
           {"name": "魔都", "url": "https://caiji.moduapi.cc/api.php/provide/vod/", "receiveTimeout": 378},
           {"name": "极速", "url": "https://jszyapi.com/api.php/provide/vod/", "receiveTimeout": 400},
           {"name": "火狐", "url": "https://hhzyapi.com/api.php/provide/vod/", "receiveTimeout": 507},
