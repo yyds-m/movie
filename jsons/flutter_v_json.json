@@ -155,16 +155,6 @@
     "receiveTimeout": 1035
   },
  {
-    "name": "牛牛",
-    "url": "https://api.niuniuzy.me/api.php/provide/vod/",
-    "receiveTimeout": 1035
-  },
- {
-    "name": "黑木",
-    "url": "https://json02.heimuer.xyz/api.php/provide/vod/",
-    "receiveTimeout": 1035
-  },
- {
     "name": "黑木",
     "url": "https://json02.heimuer.xyz/api.php/provide/vod/",
     "receiveTimeout": 1035
