@@ -1,1 +1,177 @@
-
+[
+  {
+    "name": "豪华",
+    "url": "https://hhzyapi.com/api.php/provide/vod/",
+    "receiveTimeout": 232
+  },
+  {
+    "name": "极速",
+    "url": "https://jszyapi.com/api.php/provide/vod/",
+    "receiveTimeout": 400
+  },
+  {
+    "name": "火狐",
+    "url": "https://hhzyapi.com/api.php/provide/vod/",
+    "receiveTimeout": 507
+  },
+  {
+    "name": "猫咪",
+    "url": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+    "receiveTimeout": 598
+  },
+  {
+    "name": "阿里",
+    "url": "http://aliys.cn:90/api.php/provide/vod/",
+    "receiveTimeout": 652
+  },
+  {
+    "name": "天空",
+    "url": "https://api.tiankongapi.com/api.php/provide/vod/",
+    "receiveTimeout": 779
+  },
+  {
+    "name": "索尼",
+    "url": "https://suoniapi.com/api.php/provide/vod/",
+    "receiveTimeout": 792
+  },
+  {
+    "name": "樱花",
+    "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+    "receiveTimeout": 794
+  },
+  {
+    "name": "卧龙",
+    "url": "https://collect.wolongzy.cc/api.php/provide/vod/",
+    "receiveTimeout": 843
+  },
+  {
+    "name": "U酷",
+    "url": "https://api.ukuapi.com/api.php/provide/vod/",
+    "receiveTimeout": 875
+  },
+  {
+    "name": "新浪",
+    "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+    "receiveTimeout": 881
+  },
+  {
+    "name": "快播",
+    "url": "https://caiji.kczyapi.com/api.php/provide/vod/",
+    "receiveTimeout": 908
+  },
+  {
+    "name": "百度",
+    "url": "https://api.apibdzy.com/api.php/provide/vod/",
+    "receiveTimeout": 922
+  },
+  {
+    "name": "红牛",
+    "url": "https://www.hongniuzy2.com/api.php/provide/vod/",
+    "receiveTimeout": 938
+  },
+  {
+    "name": "奥斯",
+    "url": "https://aosikazy.com/api.php/provide/vod/",
+    "receiveTimeout": 938
+  },
+  {
+    "name": "光速",
+    "url": "https://api.guangsuapi.com/api.php/provide/vod/",
+    "receiveTimeout": 955
+  },
+  {
+    "name": "速播",
+    "url": "https://subocaiji.com/api.php/provide/vod/",
+    "receiveTimeout": 975
+  },
+  {
+    "name": "鸭鸭",
+    "url": "https://cj.yayazy.net/api.php/provide/vod/",
+    "receiveTimeout": 1001
+  },
+  {
+    "name": "木耳",
+    "url": "https://json.heimuer.xyz/api.php/provide/vod/",
+    "receiveTimeout": 1048
+  },
+  {
+    "name": "快车",
+    "url": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/",
+    "receiveTimeout": 1059
+  },
+  {
+    "name": "最大",
+    "url": "https://api.zuidapi.com/api.php/provide/vod/",
+    "receiveTimeout": 1071
+  },
+  {
+    "name": "虎牙",
+    "url": "https://www.huyaapi.com/api.php/provide/vod/",
+    "receiveTimeout": 1073
+  },
+  {
+    "name": "OK",
+    "url": "https://api.okzy.org/api.php/provide/vod/",
+    "receiveTimeout": 1099
+  },
+  {
+    "name": "牛牛",
+    "url": "https://api.niuniuzy.me/api.php/provide/vod/",
+    "receiveTimeout": 1117
+  },
+  {
+    "name": "无尽",
+    "url": "https://api.wujinapi.com/api.php/provide/vod/",
+    "receiveTimeout": 1164
+  },
+  {
+    "name": "金鹰",
+    "url": "https://jyzyapi.com/api.php/provide/vod/",
+    "receiveTimeout": 1210
+  },
+  {
+    "name": "三九",
+    "url": "https://www.39kan.com/api.php/provide/vod/",
+    "receiveTimeout": 1234
+  },
+  {
+    "name": "闪电",
+    "url": "https://shandianzy.com/api.php/provide/vod/",
+    "receiveTimeout": 1264
+  },
+  {
+    "name": "黑雨",
+    "url": "https://json.heimuer.xyz/api.php/provide/vod/",
+    "receiveTimeout": 1320
+  },
+  {
+    "name": "飘零",
+    "url": "https://p2100.net/api.php/provide/vod/",
+    "receiveTimeout": 1371
+  },
+  {
+    "name": "海外",
+    "url": "https://huawei8.live/api.php/provide/vod/",
+    "receiveTimeout": 1484
+  },
+  {
+    "name": "暴风",
+    "url": "https://bfzyapi.com/api.php/provide/vod/",
+    "receiveTimeout": 1486
+  },
+  {
+    "name": "华为",
+    "url": "https://hw8.live/api.php/provide/vod/",
+    "receiveTimeout": 1545
+  },
+  {
+    "name": "四圈",
+    "url": "https://pg.fenwe078.cf/api.php/provide/vod/",
+    "receiveTimeout": 3599
+  },
+  {
+    "name": "淘片",
+    "url": "https://taopianapi.com/cjapi/mc10/vod/json.html/",
+    "receiveTimeout": 2000
+  }
+]
