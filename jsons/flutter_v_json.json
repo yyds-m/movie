@@ -218,5 +218,10 @@
     "name": "四圈",
     "url": "https://pg.fenwe078.cf/api.php/provide/vod/",
     "receiveTimeout": 3599
+  },
+  {
+    "name": "淘片",
+    "url": "https://taopianapi.com/cjapi/mc10/vod/json.html/",
+    "receiveTimeout": 2000
   }
 ]
