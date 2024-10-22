@@ -115,14 +115,9 @@
     "receiveTimeout": 975
   },
   {
-    "name": "360",
+    "name": "三六",
     "url": "https://360zy.com/api.php/provide/vod/",
     "receiveTimeout": 983
-  },
-  {
-    "name": "ck",
-    "url": "https://ckzy.me/api.php/provide/vod/",
-    "receiveTimeout": 989
   },
   {
     "name": "鸭鸭",
