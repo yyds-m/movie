@@ -5,11 +5,6 @@
     "receiveTimeout": 232
   },
   {
-    "name": "魔都",
-    "url": "https://caiji.moduapi.cc/api.php/provide/vod/",
-    "receiveTimeout": 378
-  },
-  {
     "name": "极速",
     "url": "https://jszyapi.com/api.php/provide/vod/",
     "receiveTimeout": 400
@@ -30,16 +25,6 @@
     "receiveTimeout": 652
   },
   {
-    "name": "天翼",
-    "url": "https://www.911ysw.top/tianyi.php/provide/vod/",
-    "receiveTimeout": 683
-  },
-  {
-    "name": "非凡",
-    "url": "https://cj.ffzyapi.com/api.php/provide/vod/",
-    "receiveTimeout": 768
-  },
-  {
     "name": "天空",
     "url": "https://api.tiankongapi.com/api.php/provide/vod/",
     "receiveTimeout": 779
@@ -55,24 +40,9 @@
     "receiveTimeout": 794
   },
   {
-    "name": "神马",
-    "url": "https://api.1080zyku.com/inc/apijson.php/vod/",
-    "receiveTimeout": 818
-  },
-  {
-    "name": "妖灵",
-    "url": "https://api.1080zyku.com/inc/apijson.php/vod",
-    "receiveTimeout": 832
-  },
-  {
     "name": "卧龙",
     "url": "https://collect.wolongzy.cc/api.php/provide/vod/",
     "receiveTimeout": 843
-  },
-  {
-    "name": "爱坤",
-    "url": "https://ikunzyapi.com/api.php/provide/vod/",
-    "receiveTimeout": 857
   },
   {
     "name": "U酷",
@@ -115,24 +85,9 @@
     "receiveTimeout": 975
   },
   {
-    "name": "三六",
-    "url": "https://360zy.com/api.php/provide/vod/",
-    "receiveTimeout": 983
-  },
-  {
     "name": "鸭鸭",
     "url": "https://cj.yayazy.net/api.php/provide/vod/",
     "receiveTimeout": 1001
-  },
-  {
-    "name": "量子",
-    "url": "https://cj.lziapi.com/api.php/provide/vod/",
-    "receiveTimeout": 1007
-  },
-  {
-    "name": "影图",
-    "url": "https://cj.vodimg.top/api.php/provide/vod/",
-    "receiveTimeout": 1030
   },
   {
     "name": "木耳",
