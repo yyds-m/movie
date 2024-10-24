@@ -25,11 +25,6 @@
     "receiveTimeout": 832
   },
   {
-    "name": "卧龙",
-    "url": "https://collect.wolongzy.cc/api.php/provide/vod/",
-    "receiveTimeout": 843
-  },
-  {
     "name": "爱坤",
     "url": "https://ikunzyapi.com/api.php/provide/vod/",
     "receiveTimeout": 857
