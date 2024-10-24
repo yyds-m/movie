@@ -25,22 +25,12 @@
     "receiveTimeout": 779
   },
   {
-    "name": "索尼",
-    "url": "https://suoniapi.com/api.php/provide/vod/",
-    "receiveTimeout": 792
-  },
-  {
-    "name": "樱花",
-    "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-    "receiveTimeout": 794
-  },
-  {
     "name": "卧龙",
     "url": "https://collect.wolongzy.cc/api.php/provide/vod/",
     "receiveTimeout": 843
   },
   {
-    "name": "U酷",
+    "name": "油库",
     "url": "https://api.ukuapi.com/api.php/provide/vod/",
     "receiveTimeout": 875
   },
@@ -48,11 +38,6 @@
     "name": "新浪",
     "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
     "receiveTimeout": 881
-  },
-  {
-    "name": "快播",
-    "url": "https://caiji.kczyapi.com/api.php/provide/vod/",
-    "receiveTimeout": 908
   },
   {
     "name": "百度",
@@ -168,5 +153,15 @@
     "name": "淘片",
     "url": "https://taopianapi.com/cjapi/mc10/vod/json.html/",
     "receiveTimeout": 2000
+  },
+  {
+    "name": "索尼",
+    "url": "https://suoniapi.com/api.php/provide/vod/",
+    "receiveTimeout": 792
+  },
+  {
+    "name": "樱花",
+    "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+    "receiveTimeout": 794
   }
 ]
