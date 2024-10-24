@@ -25,6 +25,11 @@
     "receiveTimeout": 779
   },
   {
+    "name": "樱花",
+    "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+    "receiveTimeout": 794
+  },
+  {
     "name": "卧龙",
     "url": "https://collect.wolongzy.cc/api.php/provide/vod/",
     "receiveTimeout": 843
@@ -48,6 +53,11 @@
     "name": "速播",
     "url": "https://subocaiji.com/api.php/provide/vod/",
     "receiveTimeout": 975
+  },
+  {
+    "name": "影图",
+    "url": "https://cj.vodimg.top/api.php/provide/vod/",
+    "receiveTimeout": 1030
   },
   {
     "name": "快车",
@@ -103,15 +113,5 @@
     "name": "四圈",
     "url": "https://pg.fenwe078.cf/api.php/provide/vod/",
     "receiveTimeout": 3599
-  },
-  {
-    "name": "樱花",
-    "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-    "receiveTimeout": 794
-  },
-  {
-    "name": "影图",
-    "url": "https://cj.vodimg.top/api.php/provide/vod/",
-    "receiveTimeout": 1030
   }
 ]
