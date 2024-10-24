@@ -1,5 +1,10 @@
 [
   {
+    "name": "猫咪", 
+    "url": "http://zy.xiaomaomi.cc/api.php/provide/vod/", 
+    "receiveTimeout": 598
+  },
+  {
     "name": "魔都",
     "url": "https://caiji.moduapi.cc/api.php/provide/vod/",
     "receiveTimeout": 378
