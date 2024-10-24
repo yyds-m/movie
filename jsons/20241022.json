@@ -15,11 +15,6 @@
     "receiveTimeout": 507
   },
   {
-    "name": "猫咪",
-    "url": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
-    "receiveTimeout": 598
-  },
-  {
     "name": "阿里",
     "url": "http://aliys.cn:90/api.php/provide/vod/",
     "receiveTimeout": 652
