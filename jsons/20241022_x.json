@@ -38,10 +38,5 @@
     "name": "量子",
     "url": "https://cj.lziapi.com/api.php/provide/vod/",
     "receiveTimeout": 1007
-  },
-  {
-    "name": "影图",
-    "url": "https://cj.vodimg.top/api.php/provide/vod/",
-    "receiveTimeout": 1030
   }
 ]
