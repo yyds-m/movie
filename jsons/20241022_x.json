@@ -1,23 +1,23 @@
 [
   {
-    "name": "猫咪", 
-    "url": "http://zy.xiaomaomi.cc/api.php/provide/vod/", 
-    "receiveTimeout": 598
-  },
-  {
     "name": "魔都",
     "url": "https://caiji.moduapi.cc/api.php/provide/vod/",
     "receiveTimeout": 378
   },
   {
-    "name": "非凡",
-    "url": "https://cj.ffzyapi.com/api.php/provide/vod/",
-    "receiveTimeout": 768
+    "name": "猫咪",
+    "url": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+    "receiveTimeout": 598
   },
   {
     "name": "天翼",
     "url": "https://www.911ysw.top/tianyi.php/provide/vod/",
     "receiveTimeout": 683
+  },
+  {
+    "name": "非凡",
+    "url": "https://cj.ffzyapi.com/api.php/provide/vod/",
+    "receiveTimeout": 768
   },
   {
     "name": "神马",
