@@ -1,0 +1,57 @@
+[
+  {
+    "name": "索尼",
+    "url": "https://suoniapi.com/api.php/provide/vod/",
+    "receiveTimeout": 792
+  },
+  {
+    "name": "百度",
+    "url": "https://api.apibdzy.com/api.php/provide/vod/",
+    "receiveTimeout": 922
+  },
+  {
+    "name": "红牛",
+    "url": "https://www.hongniuzy2.com/api.php/provide/vod/",
+    "receiveTimeout": 938
+  },
+  {
+    "name": "奥斯",
+    "url": "https://aosikazy.com/api.php/provide/vod/",
+    "receiveTimeout": 938
+  },
+  {
+    "name": "鸭鸭",
+    "url": "https://cj.yayazy.net/api.php/provide/vod/",
+    "receiveTimeout": 1001
+  },
+  {
+    "name": "木耳",
+    "url": "https://json.heimuer.xyz/api.php/provide/vod/",
+    "receiveTimeout": 1048
+  },
+  {
+    "name": "欧克",
+    "url": "https://api.okzy.org/api.php/provide/vod/",
+    "receiveTimeout": 1099
+  },
+  {
+    "name": "牛牛",
+    "url": "https://api.niuniuzy.me/api.php/provide/vod/",
+    "receiveTimeout": 1117
+  },
+  {
+    "name": "闪电",
+    "url": "https://shandianzy.com/api.php/provide/vod/",
+    "receiveTimeout": 1264
+  },
+  {
+    "name": "黑雨",
+    "url": "https://json.heimuer.xyz/api.php/provide/vod/",
+    "receiveTimeout": 1320
+  },
+  {
+    "name": "淘片",
+    "url": "https://taopianapi.com/cjapi/mc10/vod/json.html/",
+    "receiveTimeout": 2000
+  }
+]
