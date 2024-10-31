@@ -2,6 +2,19 @@
 <h2 align="center">X电影：极致纯粹的观影工具</h2>
 
 
+
+App Store
+
+[https://testflight.apple.com/join/q9yUcV8n](https://testflight.apple.com/join/q9yUcV8n)
+
+
+安卓下载
+
+[https://pan.lanzoub.com/i4a572dbffif](https://pan.lanzoub.com/i4a572dbffif)
+
+
+
+
 X电影专为电影爱好者用户而设计。
 
 🔥请勿相信任何广告
