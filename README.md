@@ -48,7 +48,7 @@ JSON数据格式示例
 ## 直播订阅：
 目前仅支持m3u文件地址
 
-[点击导入result.m3u源](https://raw.githubusercontent.com/yyds-x/TV/refs/heads/master/output/result.m3u)
+[点击导入result.m3u源](https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u)
 
 [点击导入ipv6.m3u源](https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u)
 
