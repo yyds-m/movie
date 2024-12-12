@@ -26,14 +26,17 @@
 
 
 ## 电影订阅：
+
 [点击导入无广告源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/x.json)
 
 [点击导入第三方源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/demo.json)
 
 [点击导入web源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/web.json)
 
-## 👩‍💻 自定义源导入 
-JSON数据格式示例
+👩‍💻 自定义源导入 
+目前仅支持JSON文件地址
+
+JSON数据格式示例：
 [
   {
     "name": "",
