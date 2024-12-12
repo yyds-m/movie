@@ -25,15 +25,14 @@
 [https://pan.lanzoub.com/i4a572dbffif](https://pan.lanzoub.com/i4a572dbffif)
 
 
-## 订阅：
+## 电影订阅：
+[点击导入无广告源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/x.json)
 
-电影订阅：我的-电影订阅-下载图标-点击同步
+[点击导入第三方源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/demo.json)
 
-电视订阅：我的-电视订阅-下载图标-点击同步
+[点击导入web源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/web.json)
 
-## 👩‍💻 源导入 
-目前仅支持GitHub仓库中文件原始地址
-
+## 👩‍💻 自定义源导入 
 JSON数据格式示例
 [
   {
@@ -45,6 +44,16 @@ JSON数据格式示例
     "url": ""
   }
   ]
+
+## 直播订阅：
+目前仅支持m3u文件地址
+
+[点击导入result.m3u源](https://raw.githubusercontent.com/yyds-x/TV/refs/heads/master/output/result.m3u)
+
+[点击导入ipv6.m3u源](https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u)
+
+
+
 
 ## 💡温馨提示
 本APP属于个人开发学习项目(非商业用途)，不以任何盈利为目的。APP仅供学习探索搜索引擎相关技术，严禁用于商业目的。APP内所有资源均由内置搜索引擎(非人工)自动检索于网络，APP自身不存储、制作和上传任何视频、图片等内容数据，且不提供资源下载功能(仅提供各网络来源数据的展示)。APP并未对搜索资源(包括视频/图片/文字等)内容进行编辑和修改，所展示即为第三方网站展示结果。APP对搜索结果进行版权审查时可能会有遗漏，若程序提供的内容侵犯到了您的权益，请及时用电子邮件的方式通知我，以迅速采取适当措施，避免给双方造成不必要的经济损失。
