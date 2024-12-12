@@ -33,7 +33,7 @@
 
 [点击导入web源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/web.json)
 
-👩‍💻 自定义源导入，json数据格式示例：
+👩‍💻 自定义源，json数据格式示例：
 
 > [{"name": "","url": ""},{"name": "","url": ""}]
 
