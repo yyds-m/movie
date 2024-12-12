@@ -25,6 +25,7 @@
 
 
 ## 电影订阅：
+> 仅目前仅支持json文件地址或github原始json文件地址
 
 [点击导入无广告源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/x.json)
 
@@ -33,9 +34,6 @@
 [点击导入web源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/web.json)
 
 👩‍💻 自定义源导入 
-> 仅目前仅支持json文件地址或github原始json文件地址
-
-
 JSON数据格式示例：
 [
   {
