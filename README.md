@@ -17,7 +17,7 @@
 
 > 仅有**10000**个名额，先到先得
 
-  [点击进入 TestFlight 内测](https://testflight.apple.com/join/hDMYDZ0P)
+  [https://testflight.apple.com/join/hDMYDZ0P](https://testflight.apple.com/join/hDMYDZ0P)
 
 ## 安卓下载
 
