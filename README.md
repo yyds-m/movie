@@ -33,7 +33,8 @@
 [点击导入web源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/web.json)
 
 👩‍💻 自定义源导入 
-目前仅支持json文件地址或github原始json文件地址
+> 仅目前仅支持json文件地址或github原始json文件地址
+
 
 JSON数据格式示例：
 [
@@ -48,7 +49,7 @@ JSON数据格式示例：
   ]
 
 ## 直播订阅：
-目前仅支持m3u文件地址或github原始m3u文件地址
+> 目前仅支持m3u文件地址或github原始m3u文件地址
 
 [点击导入result.m3u源](https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u)
 
