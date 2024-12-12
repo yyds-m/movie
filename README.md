@@ -2,36 +2,36 @@
 
 ## 💡 核心功能
 
-不花钱实现观影追剧自由：
+  不花钱实现观影追剧自由：
 
-超多新剧、热播剧，和各平台同步更新；
+  超多新剧、热播剧，和各平台同步更新；
 
-港台剧、韩剧、美剧、日剧统统都有；
+  港台剧、韩剧、美剧、日剧统统都有；
 
-韩综、美综、港综，还有超多动漫新番资源；
+  韩综、美综、港综，还有超多动漫新番资源；
 
-支持倍速、可投屏、可️下载、有弹幕
+  支持倍速、可投屏、可️下载、有弹幕
 
 
 ##  TestFlight
 
 > 仅有**10000**个名额，先到先得
 
-[点击进入 TestFlight 内测](https://testflight.apple.com/join/hDMYDZ0P)
+  [点击进入 TestFlight 内测](https://testflight.apple.com/join/hDMYDZ0P)
 
 ## 安卓下载
 
-[https://pan.lanzoub.com/i4a572dbffif](https://pan.lanzoub.com/i4a572dbffif)
+  [https://pan.lanzoub.com/i4a572dbffif](https://pan.lanzoub.com/i4a572dbffif)
 
 
 ## 电影订阅：
 > 仅支持json文件地址或github原始json文件地址
 
-[点击导入无广告源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/x.json)
+  [点击导入无广告源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/x.json)
 
-[点击导入第三方源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/demo.json)
+  [点击导入第三方源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/demo.json)
 
-[点击导入web源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/web.json)
+  [点击导入web源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/web.json)
 
 👩‍💻 自定义源，json数据格式示例：
 
@@ -40,9 +40,9 @@
 ## 直播订阅：
 > 仅支持m3u文件地址或github原始m3u文件地址
 
-[点击导入result.m3u源](https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u)
+  [点击导入result.m3u源](https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u)
 
-[点击导入ipv6.m3u源](https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u)
+  [点击导入ipv6.m3u源](https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u)
 
 
 
