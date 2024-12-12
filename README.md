@@ -1,4 +1,4 @@
-<h2 align="center">X电影：极致纯粹的观影工具</h2>
+<h2 align="center">极致纯粹的观影工具</h2>
 
 ## 💡 核心功能
 
@@ -24,7 +24,7 @@
   [https://pan.lanzoub.com/i4a572dbffif](https://pan.lanzoub.com/i4a572dbffif)
 
 
-## 电影订阅：
+## 📽️电影订阅：
 > 仅支持json文件地址或github原始json文件地址
 
   [点击导入无广告源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/x.json)
