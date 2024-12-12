@@ -17,11 +17,11 @@
 
 > 仅有**10000**个名额，先到先得
 
-  [https://testflight.apple.com/join/hDMYDZ0P](https://testflight.apple.com/join/hDMYDZ0P)
+  [点击进入 TestFlight 内测](https://testflight.apple.com/join/hDMYDZ0P)
 
 ## 安卓下载
 
-  [https://pan.lanzoub.com/i4a572dbffif](https://pan.lanzoub.com/i4a572dbffif)
+  [点击进入 APK 下载](https://pan.lanzoub.com/i4a572dbffif)
 
 
 ## 📽️电影订阅：
