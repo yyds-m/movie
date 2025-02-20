@@ -5,6 +5,11 @@
     "receiveTimeout": 598
   },
   {
+    "name": "豆瓣",
+    "url": "https://caiji.dbzy.tv/api.php/provide/vod/at/josn/",
+    "receiveTimeout": 598
+  },
+  {
     "name": "魔都",
     "url": "https://caiji.moduapi.cc/api.php/provide/vod/",
     "receiveTimeout": 378
