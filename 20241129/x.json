@@ -40,6 +40,61 @@
     "receiveTimeout": 1007
   },
   {
+    "name": "速播",
+    "url": "https://subocaiji.com/api.php/provide/vod/",
+    "receiveTimeout": 975
+  },
+  {
+    "name": "极速",
+    "url": "https://jszyapi.com/api.php/provide/vod/",
+    "receiveTimeout": 400
+  },
+  {
+    "name": "卧龙",
+    "url": "https://collect.wolongzy.cc/api.php/provide/vod/",
+    "receiveTimeout": 843
+  },
+  {
+    "name": "海外",
+    "url": "https://huawei8.live/api.php/provide/vod/",
+    "receiveTimeout": 1484
+  },
+  {
+    "name": "暴风",
+    "url": "https://bfzyapi.com/api.php/provide/vod/",
+    "receiveTimeout": 1486
+  },
+  {
+    "name": "华为",
+    "url": "https://hw8.live/api.php/provide/vod/",
+    "receiveTimeout": 1545
+  },
+  {
+    "name": "最大",
+    "url": "https://api.zuidapi.com/api.php/provide/vod/",
+    "receiveTimeout": 1071
+  },
+  {
+    "name": "无尽",
+    "url": "https://api.wujinapi.com/api.php/provide/vod/",
+    "receiveTimeout": 1164
+  },
+  {
+    "name": "飘零",
+    "url": "https://p2100.net/api.php/provide/vod/",
+    "receiveTimeout": 1371
+  },
+  {
+    "name": "四圈",
+    "url": "https://pg.fenwe078.cf/api.php/provide/vod/",
+    "receiveTimeout": 3599
+  }
+  {
+    "name": "影图",
+    "url": "https://cj.vodimg.top/api.php/provide/vod/",
+    "receiveTimeout": 1030
+  },
+  {
     "name": "妖灵",
     "url": "https://api.1080zyku.com/inc/apijson.php/vod",
     "receiveTimeout": 832
