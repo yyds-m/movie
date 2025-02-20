@@ -15,11 +15,6 @@
     "receiveTimeout": 378
   },
   {
-    "name": "红牛",
-    "url": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
-    "receiveTimeout": 378
-  },
-  {
     "name": "天翼",
     "url": "https://www.911ysw.top/tianyi.php/provide/vod/",
     "receiveTimeout": 683
