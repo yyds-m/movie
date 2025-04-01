@@ -30,8 +30,6 @@
   [点击导入无广告源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/x.json)
 
   [点击导入第三方源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/demo.json)
-
-  [点击导入web源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/web.json)
   
   [点击导入测试源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/index.json)
 
