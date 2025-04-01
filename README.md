@@ -15,7 +15,7 @@
 
 ##  TestFlight
 
-> 仅有**10000**个名额，先到先得
+## 仅有**10000**个名额，先到先得
 
   [点击进入 TestFlight 内测](https://testflight.apple.com/join/hDMYDZ0P)
 
@@ -25,7 +25,7 @@
 
 
 ## 📽️电影订阅：
-> 仅支持json文件地址或github原始json文件地址
+仅支持json文件地址或github原始json文件地址
 
   [点击导入无广告源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/x.json)
 
@@ -35,10 +35,10 @@
 
 👩‍💻 自定义源，json数据格式示例：
 
-> [{"name": "","url": ""},{"name": "","url": ""}]
+[{"name": "","url": ""},{"name": "","url": ""}]
 
 ## 直播订阅：
-> 仅支持m3u文件地址或github原始m3u文件地址
+仅支持m3u文件地址或github原始m3u文件地址
 
   [点击导入result.m3u源](https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u)
 
