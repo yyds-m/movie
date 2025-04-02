@@ -3,5 +3,20 @@
     "name": "优质",
     "url": "https://api.yzzy-api.com/inc/apijson.php",
     "receiveTimeout": 430
+  },
+   {
+    "name": "优质综合",
+    "url": "https://api.yzzy-api.com/inc/api_mac10_all.php",
+    "receiveTimeout": 430
+  },
+   {
+    "name": "优质高清",
+    "url": "https://api.yzzy-api.com/inc/api_mac10.php",
+    "receiveTimeout": 430
+  },
+  {
+    "name": "豆瓣",
+    "url": "https://caiji.dbzy.tv/api.php/provide/vod/at/josn/",
+    "receiveTimeout": 430
   }
 ]
