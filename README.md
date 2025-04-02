@@ -31,7 +31,7 @@
 
   [点击导入第三方源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/demo.json)
   
-  [点击导入测试源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/index.json)
+  [点击导入测试源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/test.json)
 
 ## 👩‍💻 自定义源，json数据格式示例：
 
