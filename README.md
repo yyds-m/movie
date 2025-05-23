@@ -17,26 +17,10 @@
 
   [点击进入 APK 下载](https://pan.lanzoub.com/s/vip1024)
 
-
-## 📽️电影订阅：
-仅支持json文件地址或github原始json文件地址
-
-  [点击导入无广告源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/x.json)
-
-  [点击导入第三方源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/20241129/demo.json)
-  
-  [点击导入测试源](https://raw.githubusercontent.com/yyds-m/movie/refs/heads/main/test.json)
-
 ## 👩‍💻 自定义源，json数据格式示例：
 
 [{"name": "","url": ""},{"name": "","url": ""}]
 
-## 直播订阅：
-仅支持m3u文件地址或github原始m3u文件地址
-
-  [点击导入result.m3u源](https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u)
-
-  [点击导入ipv6.m3u源](https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u)**
 
 
 ## Features
